@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "name": "Marco Blas",
+      "email": "marcoblas444@gmail.com",
+      "isPro": true,
+      "createdAt": "2026-10-07T00:00:00.000Z"
+    }
+  ]
+}
